@@ -40,4 +40,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/rzh1999/sfg-pet-clinic.git</developerConnection>
+    </scm>
+
 </project>
